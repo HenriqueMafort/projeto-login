@@ -74,6 +74,16 @@ div#formulario>p {
     text-indent: 20px;
 }
 
+form > div.campo{
+    background-color: #5f2c82;
+    height: 40px;
+    border-radius: 8px;
+    margin: 5px 0px;
+}
+div.campo > label{
+    display: none;
+}
+
 label:hover {
     cursor: pointer;
 }
