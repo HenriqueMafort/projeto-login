@@ -62,6 +62,12 @@ section#login>div#formulario {
 
 }
 
+span.material-icons{
+position: relative;
+    top: 7px;
+}
+
+
 div#formulario>h1 {
     text-align: center;
     margin-bottom: 10px;
